@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "TBOIRandomizer"
+version = "0.1.0"
+description = "Achievement randomizer for The Binding of Isaac"
+requires-python = ">=3.8"
+
+[project.scripts]
+isaac-randomizer = "isaac_randomizer.__main__:main"

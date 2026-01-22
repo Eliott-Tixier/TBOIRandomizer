@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Generated files
+generated_mod/
+*.lua
+
+# IDE
+.vscode/
+.idea/

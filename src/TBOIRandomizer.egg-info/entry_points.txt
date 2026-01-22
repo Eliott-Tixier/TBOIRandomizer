@@ -1,0 +1,2 @@
+[console_scripts]
+isaac-randomizer = isaac_randomizer.__main__:main

@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: TBOIRandomizer
+Version: 0.1.0
+Summary: Achievement randomizer for The Binding of Isaac
+Requires-Python: >=3.8

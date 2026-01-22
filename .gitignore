@@ -13,3 +13,7 @@ generated_mod/
 # IDE
 .vscode/
 .idea/
+
+
+# Packaging / install artifacts
+*.egg-info/
